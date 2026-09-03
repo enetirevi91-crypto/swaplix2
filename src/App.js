@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-const TG_URL = "https://t.me/SWAP_LIX";
+const TG_URL = "https://t.me/+2ktARr9AH1Q4YjI0";
 const TG_CHANNEL = "https://t.me/+2ktARr9AH1Q4YjI0";
 
 function App() {
