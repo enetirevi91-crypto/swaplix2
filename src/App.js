@@ -4,14 +4,6 @@ import './App.css';
 const TG_URL = "https://t.me/SWAP_LIX";
 const TG_CHANNEL = "https://t.me/+2ktARr9AH1Q4YjI0";
 
-function TelegramIcon({ className }) {
-  return (
-    <svg viewBox="0 0 24 24" fill="currentColor" className={className}>
-      <path d="M21.5 3.5L2.5 11l5.5 2 2 6 3-3.5 5 4 3.5-16zM10 14l8-7-10 6.5z" />
-    </svg>
-  );
-}
-
 function App() {
   return (
     <div className="App">
